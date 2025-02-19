@@ -7,10 +7,9 @@
 <h1>🧑‍🏫 Professor responsável</h1> 
 
 -  Carlos Eduardo Duque Polito
--  
+  
 <h1>🎯 Objetivo do projeto</h1> 
 
-<br>
 
 <h1>✖️ O que não é o objetivo do projeto</h2>
 
