@@ -4,3 +4,6 @@
 <p align="center">
 <img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=blue&style=for-the-badge"/>
 
+<h1>🧑‍🏫 Professor responsável</h1> 
+
+-  Carlos Eduardo Duque Polito
