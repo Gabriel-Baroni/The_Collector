@@ -30,5 +30,5 @@
 
 <h1>💻 Desenvolvedores</h1>
 
-| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/111576177?v=4" width=115><br><sub>Gabriel de Paula Baroni</sub>](https://github.com/Gabriel-Baroni) | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/24616338?v=4" width=115><br><sub>Luís Henrique dos Santos Abrantes</sub>](https://github.com/LuisAbrantes) 
+| [<img src="https://avatars.githubusercontent.com/u/111576177?v=4" width=115>](https://github.com/Gabriel-Baroni) <br> **Gabriel de Paula Baroni** | [<img src="https://avatars.githubusercontent.com/u/24616338?v=4" width=115>](https://github.com/LuisAbrantes) <br> **Luís Henrique dos Santos Abrantes** |
 | :---: | :---: |
