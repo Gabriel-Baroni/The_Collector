@@ -1,4 +1,4 @@
-<h1 align="center"> THE COLECTOR  </h1>
+<h1 align="center"> THE COLLECTOR  </h1>
 <p align="center">Um trabalho para a disciplina de DESENVOLVIMENTO DE APLICAÇÕES PARA DISPOSITIVOS MÓVEIS - 4º Informática do IFSP-Jacareí</p>
 <br>
 <p align="center">
