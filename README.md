@@ -9,7 +9,7 @@
 -  Carlos Eduardo Duque Polito
   
 <h1>🎯 Objetivo do projeto</h1> 
-O objetivo do projeto é a construção de um aplicativo funcional, que permita colecionadores acessarem suas coleções de qualquer lugar do mundo e a qualquer momento, facilitando, també, a organização das coleções.
+O objetivo do projeto é a construção de um aplicativo funcional, que permita colecionadores acessarem suas coleções de qualquer lugar do mundo e a qualquer momento, facilitando, também, a organização das coleções.
 
 <br>
 
