@@ -25,4 +25,5 @@ doc/api/
 
 .flutter-plugins
 .flutter-plugins-dependencies
+.firebase_config.dart
 
