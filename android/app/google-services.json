@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "944913016514",
+    "project_id": "the-collector-60b6e",
+    "storage_bucket": "the-collector-60b6e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944913016514:android:dc6a52842c39b16feabd5b",
+        "android_client_info": {
+          "package_name": "com.mycompany.thecollector"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAp0ZTT50MpfSwnc3eRqCk00yloH9cJGJM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
