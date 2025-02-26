@@ -31,7 +31,9 @@ O público-alvo do aplicativo é qualquer tipo de colecionador, desde os colecio
 
 
 <h1>📑 Matriz de Requisitos</h1>
-<img src="https://github.com/user-attachments/assets/c1768194-a03d-42a6-a79d-e2cc39ca3033" width=1000> 
+<img src="https://github.com/user-attachments/assets/078403c1-c3d9-4fc3-9235-b604f98fc14a" width=1000> 
+
+<br>
 
 - `Observação`: C.T significa Criação de Tela. É um requisito tanto de back-end quanto de Front-end, pois no Flutterflow o desenvolvimento de ambas das partes são mais unidas por ser low-code.
 
