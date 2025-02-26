@@ -1,0 +1,5 @@
+# Ignorar arquivos do FlutterFlow na contagem de linguagens
+lib/** linguist-vendored
+build/** linguist-vendored
+.android/** linguist-vendored
+.ios/** linguist-vendored
