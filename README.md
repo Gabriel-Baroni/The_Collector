@@ -39,6 +39,12 @@ O público-alvo do aplicativo é qualquer tipo de colecionador, desde os colecio
 
 <h1>📊 Modelagem do Banco de Dados</h1>
 
+
+<h1>📱Mockup do APP </h1>
+
+`Esboço da Interface`: <img src="https://github.com/user-attachments/assets/a25ee1f1-3fbf-48f2-a542-cc68e2b204b9" width=1000> 
+
+
 <h1>🧍Diagramas UML</h1>
 
 <h1>🧰 Tecnologias Utilizadas</h1> 
