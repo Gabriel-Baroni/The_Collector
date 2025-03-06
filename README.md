@@ -51,6 +51,22 @@ O público-alvo do aplicativo é qualquer tipo de colecionador, desde os colecio
 
 <h1>🧰 Tecnologias Utilizadas</h1> 
 
+`Front-end e back-end`:
+<br><br>
+<img src="https://img.shields.io/badge/FlutterFlow-0256F2?style=for-the-badge&logo=flutter&logoColor=white">
+
+`Banco de Dados`:
+<br><br>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
+
+`Diagramas e Mockups`:
+<br><br>
+<img src="https://img.shields.io/badge/Excalidraw-5E81AC?style=for-the-badge&logo=excalidraw&logoColor=white">
+<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+
+
+
+
 <h1>🏗️ Arquitetura da Aplicação</h1> 
 
 <h1>💻 Desenvolvedores</h1>
