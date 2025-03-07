@@ -39,7 +39,9 @@ O público-alvo do aplicativo é qualquer tipo de colecionador, desde os colecio
 
 <h1>📱Mockup do APP </h1>
 
-`Esboço da Interface`: <img src="https://github.com/user-attachments/assets/a25ee1f1-3fbf-48f2-a542-cc68e2b204b9" width=1000> 
+`Pré-Mockup da Interface`: <img src="https://github.com/user-attachments/assets/6389b3f1-08c6-48ee-a499-c3f73ccaa784" width=1000> 
+
+
 
 <h1>📊 Modelagem do Banco de Dados</h1>
 
@@ -48,6 +50,14 @@ O público-alvo do aplicativo é qualquer tipo de colecionador, desde os colecio
 
 
 <h1>🧍Diagramas UML</h1>
+<h2>Tela de Login e Cadastro</h2>
+<img src="https://github.com/user-attachments/assets/bf9dac64-73c4-4a4a-b35e-7ce0631c8f12" width=1000>
+<h2>Tela principal, criação de coleção e criação de item</h2>
+<img src="https://github.com/user-attachments/assets/6f1a476f-ffc7-40da-ae29-cee477a90920" width=1000>
+
+
+
+
 
 <h1>🧰 Tecnologias Utilizadas</h1> 
 
