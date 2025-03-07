@@ -19,7 +19,7 @@ O objetivo do projeto é a construção de um aplicativo funcional, que permita 
 <h1>👥 Público-alvo</h2>
 O público-alvo do aplicativo é qualquer tipo de colecionador, desde os colecionadores profissionais até os amadores, os colecionadores de vídeo games até colecionadores de selos.
 
-<h1>:hammer: Funcionalidades do projeto</h2>
+<h1>:hammer: Requisitos funcionais do projeto</h2>
 
 - `Registro de usuários`: Um sistema de cadastro e login de usuários.
 - `Criação de novas coleções`: Casdastro de coleções personalizadas ao molde do usuário.
