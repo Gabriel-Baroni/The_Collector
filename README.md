@@ -23,7 +23,7 @@ O público-alvo do aplicativo é qualquer tipo de colecionador, desde os colecio
 
 - `Registro de usuários`: Um sistema de cadastro e login que permita a criação e autenticação dos usuários através do email.
 - `CRUD de novas coleções`: Criação, deleção, atualização e leitura de coleções personalizadas ao molde do usuário.
-- `Criação de itens`: Criação, deleção, atualização e leitura de itens dentro de uma coleção
+- `CRUD de itens`: Criação, deleção, atualização e leitura de itens dentro de uma coleção
 
 <h1>☑️ Requisitos não funcionais para o site</h1> 
 
