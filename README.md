@@ -54,7 +54,7 @@ O público-alvo do aplicativo é qualquer tipo de colecionador, desde os colecio
 
 <h1>🧍Diagramas UML</h1>
 <h2>Tela de Login e Cadastro</h2>
-<img src="https://github.com/user-attachments/assets/bf9dac64-73c4-4a4a-b35e-7ce0631c8f12" width=1000>
+<img src="https://github.com/user-attachments/assets/e8a411ac-a3fb-49ce-8ed9-0d72826935b1" width=1000>
 <h2>Tela principal, criação de coleção e criação de item</h2>
 <img src="https://github.com/user-attachments/assets/6f1a476f-ffc7-40da-ae29-cee477a90920" width=1000>
 
