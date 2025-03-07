@@ -13,21 +13,23 @@ O objetivo do projeto é a construção de um aplicativo funcional, que permita 
 
 <br>
 
-<h1>✖️ O que não é o objetivo do projeto</h2>
+<h1>✖️ O que não é o objetivo do projeto</h1>
 
 
 <h1>👥 Público-alvo</h2>
 O público-alvo do aplicativo é qualquer tipo de colecionador, desde os colecionadores profissionais até os amadores, os colecionadores de vídeo games até colecionadores de selos.
 
-<h1>:hammer: Requisitos funcionais do projeto</h2>
+<h1>:hammer: Requisitos funcionais do projeto</h1>
 
-- `Registro de usuários`: Um sistema de cadastro e login de usuários.
-- `Criação de novas coleções`: Casdastro de coleções personalizadas ao molde do usuário.
+- `Registro de usuários`: Um sistema de cadastro e login que permita a criação e autenticação dos usuários através do email.
+- `CRUD de novas coleções`: Criação, deleção, atualização e leitura de coleções personalizadas ao molde do usuário.
+- `Criação de itens`: Criação, deleção, atualização e leitura de itens dentro de uma coleção
 
 <h1>☑️ Requisitos não funcionais para o site</h1> 
 
-- `Desempenho`: O site deve funcionar sem travamentos e com agilidade de resposta.
-- `Segurança`: O site deve garantir que os dados do cliente estejam em segurança e que sejam acessados só pelo mesmo.
+- `Desempenho`: O software deve funcionar sem travamentos e com agilidade de resposta.
+- `Segurança`: O software deve garantir que os dados do cliente estejam em segurança e que sejam acessados só pelo mesmo.
+- `Ser desenvolvido para mobile`: O software deve ser desenvolvido para Android e IOS. 
 
 
 <h1>📑 Matriz de Requisitos</h1>
@@ -39,7 +41,8 @@ O público-alvo do aplicativo é qualquer tipo de colecionador, desde os colecio
 
 <h1>📱Mockup do APP </h1>
 
-`Pré-Mockup da Interface`: <img src="https://github.com/user-attachments/assets/6389b3f1-08c6-48ee-a499-c3f73ccaa784" width=1000> 
+`Pré-Mockup da Interface`: <img src="https://github.com/user-attachments/assets/20f0f808-15e2-4ec0-8bc7-7d98feab98ec" width=1000> 
+
 
 
 
