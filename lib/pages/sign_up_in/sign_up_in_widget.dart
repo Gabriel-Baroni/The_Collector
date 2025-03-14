@@ -138,7 +138,7 @@ class _SignUpInWidgetState extends State<SignUpInWidget>
                   width: 100.0,
                   height: double.infinity,
                   decoration: BoxDecoration(
-                    color: FlutterFlowTheme.of(context).secondaryBackground,
+                    color: Color(0x0014181B),
                   ),
                   alignment: AlignmentDirectional(0.0, -1.0),
                   child: SingleChildScrollView(
@@ -175,11 +175,11 @@ class _SignUpInWidgetState extends State<SignUpInWidget>
                                   Align(
                                     alignment: AlignmentDirectional(0.0, -1.0),
                                     child: Text(
-                                      'The Collector',
+                                      'THE COLLECTOR',
                                       style: FlutterFlowTheme.of(context)
                                           .headlineMedium
                                           .override(
-                                            fontFamily: 'Inter Tight',
+                                            fontFamily: 'Inter',
                                             letterSpacing: 0.0,
                                           ),
                                     ),
@@ -217,7 +217,7 @@ class _SignUpInWidgetState extends State<SignUpInWidget>
                                     labelStyle: FlutterFlowTheme.of(context)
                                         .displaySmall
                                         .override(
-                                          fontFamily: 'Inter Tight',
+                                          fontFamily: 'Inter',
                                           letterSpacing: 0.0,
                                         ),
                                     unselectedLabelStyle:
@@ -228,8 +228,8 @@ class _SignUpInWidgetState extends State<SignUpInWidget>
                                               letterSpacing: 0.0,
                                               fontWeight: FontWeight.normal,
                                             ),
-                                    indicatorColor:
-                                        FlutterFlowTheme.of(context).primary,
+                                    indicatorColor: FlutterFlowTheme.of(context)
+                                        .primaryText,
                                     indicatorWeight: 4.0,
                                     padding: EdgeInsetsDirectional.fromSTEB(
                                         0.0, 12.0, 16.0, 12.0),
@@ -268,7 +268,7 @@ class _SignUpInWidgetState extends State<SignUpInWidget>
                                                     .fromSTEB(
                                                         0.0, 12.0, 0.0, 24.0),
                                                 child: Text(
-                                                  'Let\'s get started by filling out the form below.',
+                                                  'Every collector needs a home. Welcome !',
                                                   style: FlutterFlowTheme.of(
                                                           context)
                                                       .labelMedium
@@ -303,6 +303,9 @@ class _SignUpInWidgetState extends State<SignUpInWidget>
                                                               .override(
                                                                 fontFamily:
                                                                     'Inter',
+                                                                color: FlutterFlowTheme.of(
+                                                                        context)
+                                                                    .secondaryText,
                                                                 letterSpacing:
                                                                     0.0,
                                                               ),
@@ -323,7 +326,7 @@ class _SignUpInWidgetState extends State<SignUpInWidget>
                                                         borderSide: BorderSide(
                                                           color: FlutterFlowTheme
                                                                   .of(context)
-                                                              .primary,
+                                                              .primaryText,
                                                           width: 2.0,
                                                         ),
                                                         borderRadius:
@@ -373,7 +376,7 @@ class _SignUpInWidgetState extends State<SignUpInWidget>
                                                     cursorColor:
                                                         FlutterFlowTheme.of(
                                                                 context)
-                                                            .primary,
+                                                            .primaryText,
                                                     validator: _model
                                                         .emailAddressTextControllerValidator
                                                         .asValidator(context),
@@ -426,7 +429,7 @@ class _SignUpInWidgetState extends State<SignUpInWidget>
                                                         borderSide: BorderSide(
                                                           color: FlutterFlowTheme
                                                                   .of(context)
-                                                              .primary,
+                                                              .primaryText,
                                                           width: 2.0,
                                                         ),
                                                         borderRadius:
@@ -497,7 +500,7 @@ class _SignUpInWidgetState extends State<SignUpInWidget>
                                                     cursorColor:
                                                         FlutterFlowTheme.of(
                                                                 context)
-                                                            .primary,
+                                                            .primaryText,
                                                     validator: _model
                                                         .passwordTextControllerValidator
                                                         .asValidator(context),
@@ -554,23 +557,23 @@ class _SignUpInWidgetState extends State<SignUpInWidget>
                                                                   0.0,
                                                                   0.0,
                                                                   0.0),
-                                                      color:
-                                                          FlutterFlowTheme.of(
-                                                                  context)
-                                                              .primary,
+                                                      color: FlutterFlowTheme
+                                                              .of(context)
+                                                          .primaryBackground,
                                                       textStyle:
                                                           FlutterFlowTheme.of(
                                                                   context)
                                                               .titleSmall
                                                               .override(
                                                                 fontFamily:
-                                                                    'Inter Tight',
-                                                                color: Colors
-                                                                    .white,
+                                                                    'Inter',
+                                                                color: FlutterFlowTheme.of(
+                                                                        context)
+                                                                    .primaryText,
                                                                 letterSpacing:
                                                                     0.0,
                                                               ),
-                                                      elevation: 3.0,
+                                                      elevation: 10.0,
                                                       borderSide: BorderSide(
                                                         color:
                                                             Colors.transparent,
@@ -905,7 +908,7 @@ class _SignUpInWidgetState extends State<SignUpInWidget>
                                                     .fromSTEB(
                                                         0.0, 12.0, 0.0, 24.0),
                                                 child: Text(
-                                                  'Let\'s get started by filling out the form below.',
+                                                  'Every collector needs a home. Welcome !',
                                                   style: FlutterFlowTheme.of(
                                                           context)
                                                       .labelMedium
@@ -960,7 +963,7 @@ class _SignUpInWidgetState extends State<SignUpInWidget>
                                                         borderSide: BorderSide(
                                                           color: FlutterFlowTheme
                                                                   .of(context)
-                                                              .primary,
+                                                              .primaryText,
                                                           width: 2.0,
                                                         ),
                                                         borderRadius:
@@ -1010,7 +1013,7 @@ class _SignUpInWidgetState extends State<SignUpInWidget>
                                                     cursorColor:
                                                         FlutterFlowTheme.of(
                                                                 context)
-                                                            .primary,
+                                                            .primaryText,
                                                     validator: _model
                                                         .emailAddressCreateTextControllerValidator
                                                         .asValidator(context),
@@ -1063,7 +1066,7 @@ class _SignUpInWidgetState extends State<SignUpInWidget>
                                                         borderSide: BorderSide(
                                                           color: FlutterFlowTheme
                                                                   .of(context)
-                                                              .primary,
+                                                              .primaryText,
                                                           width: 2.0,
                                                         ),
                                                         borderRadius:
@@ -1134,7 +1137,7 @@ class _SignUpInWidgetState extends State<SignUpInWidget>
                                                     cursorColor:
                                                         FlutterFlowTheme.of(
                                                                 context)
-                                                            .primary,
+                                                            .primaryText,
                                                     validator: _model
                                                         .passwordCreateTextControllerValidator
                                                         .asValidator(context),
@@ -1188,7 +1191,7 @@ class _SignUpInWidgetState extends State<SignUpInWidget>
                                                         borderSide: BorderSide(
                                                           color: FlutterFlowTheme
                                                                   .of(context)
-                                                              .primary,
+                                                              .primaryText,
                                                           width: 2.0,
                                                         ),
                                                         borderRadius:
@@ -1260,7 +1263,7 @@ class _SignUpInWidgetState extends State<SignUpInWidget>
                                                     cursorColor:
                                                         FlutterFlowTheme.of(
                                                                 context)
-                                                            .primary,
+                                                            .primaryText,
                                                     validator: _model
                                                         .passwordConfirmTextControllerValidator
                                                         .asValidator(context),
@@ -1333,10 +1336,9 @@ class _SignUpInWidgetState extends State<SignUpInWidget>
                                                                   0.0,
                                                                   0.0,
                                                                   0.0),
-                                                      color:
-                                                          FlutterFlowTheme.of(
-                                                                  context)
-                                                              .primary,
+                                                      color: FlutterFlowTheme
+                                                              .of(context)
+                                                          .primaryBackground,
                                                       textStyle:
                                                           FlutterFlowTheme.of(
                                                                   context)
@@ -1344,12 +1346,13 @@ class _SignUpInWidgetState extends State<SignUpInWidget>
                                                               .override(
                                                                 fontFamily:
                                                                     'Inter Tight',
-                                                                color: Colors
-                                                                    .white,
+                                                                color: FlutterFlowTheme.of(
+                                                                        context)
+                                                                    .primaryText,
                                                                 letterSpacing:
                                                                     0.0,
                                                               ),
-                                                      elevation: 3.0,
+                                                      elevation: 10.0,
                                                       borderSide: BorderSide(
                                                         color:
                                                             Colors.transparent,
@@ -1499,7 +1502,7 @@ class _SignUpInWidgetState extends State<SignUpInWidget>
                                                                     BorderSide(
                                                                   color: FlutterFlowTheme.of(
                                                                           context)
-                                                                      .primaryBackground,
+                                                                      .secondaryText,
                                                                   width: 2.0,
                                                                 ),
                                                                 borderRadius:
@@ -1586,7 +1589,7 @@ class _SignUpInWidgetState extends State<SignUpInWidget>
                                                                       borderSide:
                                                                           BorderSide(
                                                                         color: FlutterFlowTheme.of(context)
-                                                                            .primaryBackground,
+                                                                            .secondaryText,
                                                                         width:
                                                                             2.0,
                                                                       ),
