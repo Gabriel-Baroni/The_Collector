@@ -47,7 +47,7 @@ Pré-Mockup da Interface: <img src="https://github.com/user-attachments/assets/2
 
 
 <h1>📊 Modelagem do Banco de Dados</h1>
-
+<img src="https://github.com/user-attachments/assets/4e25b224-f3a7-40b4-b32f-5eeaeea39ffd" width=1000>
 
 
 
