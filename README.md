@@ -43,11 +43,14 @@ O público-alvo do aplicativo é qualquer tipo de colecionador, desde os colecio
 
 Pré-Mockup da Interface: <img src="https://github.com/user-attachments/assets/20f0f808-15e2-4ec0-8bc7-7d98feab98ec" width=1000> 
 
-
-
-
 <h1>📊 Modelagem do Banco de Dados</h1>
 <img src="https://github.com/user-attachments/assets/90179d35-23ce-466c-8a99-0abe9794c3b7" width=1000>
+
+<h1>📖 Dicionário de dados </h1>
+
+<h2>Coleção users</h2>
+Essa coleção é necessária para cadastrar o usuário e seus dados, possuindo os campos: crated_time, email, uid, diplay_name, photo_url, age.
+<br><br>
 
 
 
