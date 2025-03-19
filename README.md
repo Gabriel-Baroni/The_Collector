@@ -44,13 +44,22 @@ O público-alvo do aplicativo é qualquer tipo de colecionador, desde os colecio
 Pré-Mockup da Interface: <img src="https://github.com/user-attachments/assets/20f0f808-15e2-4ec0-8bc7-7d98feab98ec" width=1000> 
 
 <h1>📊 Modelagem do Banco de Dados</h1>
-<img src="https://github.com/user-attachments/assets/90179d35-23ce-466c-8a99-0abe9794c3b7" width=1000>
+<img src="https://github.com/user-attachments/assets/34830ee1-8789-4dec-8abf-80b78a82047b" width=1000>
+
 
 <h1>📖 Dicionário de dados </h1>
 
 <h2>Coleção users</h2>
-Essa coleção é necessária para cadastrar o usuário e seus dados, possuindo os campos: crated_time, email, uid, diplay_name, photo_url, age.
+Essa coleção é necessária para cadastrar o usuário e seus dados, possuindo os campos: created_time, email, uid, diplay_name, photo_url, age, reason.
 <br><br>
+
+- `created_time`: É um campo do tipo **timestamp**. É usado para armazenar a data de criação do perfil, ou seja, a data de cadastro. 
+- `email`: É um campo do tipo **string**. É usado para armazenar o email da conta. 
+- `uid`: É um campo do tipo **string**. É usado para armazenar o identificador único do usuário (Firebase Auth).
+- `display_name`: É um campo do tipo **string**. É usado para armazenar o nome do usuário, respondido através do formulário.
+- `photo_url`: É um campo do tipo **string**. É usado para armazenar a url da foto de perfil do usuário.
+- `age`: É um campo do tipo **integer**. É usado para armazenar a idade do usuário, respondida através do formulário.
+- `reason`: É um campo do tipo **string**. É usado para armazenar o motivo pelo qual o usuário utiiza do aplicativo. 
 
 
 
