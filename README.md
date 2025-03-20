@@ -61,7 +61,25 @@ Essa coleção é necessária para cadastrar o usuário e seus dados, possuindo 
 - `age`: É um campo do tipo **integer**. É usado para armazenar a idade do usuário, respondida através do formulário.
 - `reason`: É um campo do tipo **string**. É usado para armazenar o motivo pelo qual o usuário utiiza do aplicativo. 
 
+<h2>Subcoleção Collections</h2>
+Essa é uma subcoleção dentro da coleção users. Seu papel é armazenar as coleções de cada usuário, possuindo os campos: collection_name, category, start_date, photo_url.
+<br><br>
 
+- `collection_name`: É um campo do tipo **string**. É usado para armazenar o nome da coleção.
+- `category`: É um campo do tipo **string**. É usado para armazenar a categoria da coleção (sobre o que ela é. Exemplo: Cartas, Moedas...).
+- `start_date`: É um campo do tipo **timestamp**. É usado para armazenar a data de início da coleção.
+- `photo_url`: É um campo do tipo **string**. É usado para armazenar a url da foto de capa da coleção.
+
+<h2>Subcoleção Item</h2>
+Essa é uma subcoleção dentro da subcoleção Collections. Seu papel é armezenar os dados de cada item da coleção do usuário, possuindo os campos: item_name, item_status, item_value, item_code, photo_url, amount.
+<br><br>
+
+- `item_name`: É um campo do tipo **string**. É usado para armazenar o nome do item.
+- `item_status`: É um campo do tipo **string**. É usado para armazenar o estado do item (Exemplo: Bom, ruim, lacrado...).
+- `item_value`: É um campo do tipo **string**. É usado para armazenar o valor monetário do item.
+- `item_code`: É um campo do tipo **string**. É usado para armazenar o código do item, caso houver (Exemplo: em cada carta pokemon existe um código específico).
+- `photo_url`: É um campo do tipo **string**. É usado para armazenar a url da foto do item.
+- `amount`: É um campo do tipo **string**. É usado para armazenar a quantidade do item. (Se a pessoa tiver repetido).
 
 
 <h1>🧍Diagramas UML</h1>
@@ -69,9 +87,6 @@ Essa coleção é necessária para cadastrar o usuário e seus dados, possuindo 
 <img src="https://github.com/user-attachments/assets/e8a411ac-a3fb-49ce-8ed9-0d72826935b1" width=1000>
 <h2>Tela principal, criação de coleção e criação de item</h2>
 <img src="https://github.com/user-attachments/assets/6f1a476f-ffc7-40da-ae29-cee477a90920" width=1000>
-
-
-
 
 
 <h1>🧰 Tecnologias Utilizadas</h1> 
@@ -89,9 +104,6 @@ Diagramas e Mockups:
 <img src="https://img.shields.io/badge/Excalidraw-5E81AC?style=for-the-badge&logo=excalidraw&logoColor=white">
 <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white">
-
-
-
 
 
 <h1>🏗️ Arquitetura da Aplicação</h1> 
