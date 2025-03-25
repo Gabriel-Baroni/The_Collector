@@ -48,7 +48,7 @@ O público-alvo do aplicativo é qualquer tipo de colecionador, desde os colecio
 
 <h1>📱Mockup do APP </h1>
 
-Pré-Mockup da Interface: <img src="https://github.com/user-attachments/assets/20f0f808-15e2-4ec0-8bc7-7d98feab98ec" width=1000> 
+Pré-Mockup da Interface: <img src="https://github.com/user-attachments/assets/41cd5bd9-ef7e-49ea-8b83-1f5841378d66" width=1000> 
 
 <h1>📊 Modelagem do Banco de Dados</h1>
 <img src="https://github.com/user-attachments/assets/1d0b66fd-5ff7-4ea5-874c-063865fb1997" width=1000>
