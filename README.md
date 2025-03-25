@@ -114,6 +114,7 @@ Diagramas e Mockups:
 
 
 <h1>🏗️ Arquitetura da Aplicação</h1> 
+<img src="https://github.com/user-attachments/assets/76b349ee-d94c-437e-89a6-74c07e4d9922" width=1000>
 
 <h1>💻 Desenvolvedores</h1>
 
