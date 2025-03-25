@@ -100,6 +100,7 @@ Essa é uma subcoleção dentro da subcoleção Collections. Seu papel é armeze
 Front-end e back-end:
 <br><br>
 <img src="https://img.shields.io/badge/FlutterFlow-0256F2?style=for-the-badge&logo=flutter&logoColor=white">
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
 
 Banco de Dados:
 <br><br>
