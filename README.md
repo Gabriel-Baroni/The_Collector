@@ -94,6 +94,8 @@ Essa é uma subcoleção dentro da subcoleção Collections. Seu papel é armeze
 <h2>Tela principal, criação de coleção e criação de item</h2>
 <img src="https://github.com/user-attachments/assets/6f1a476f-ffc7-40da-ae29-cee477a90920" width=1000>
 
+<h1>🏗️ Arquitetura da Aplicação</h1> 
+<img src="https://github.com/user-attachments/assets/76b349ee-d94c-437e-89a6-74c07e4d9922" width=1000>
 
 <h1>🧰 Tecnologias Utilizadas</h1> 
 
@@ -111,10 +113,6 @@ Diagramas e Mockups:
 <img src="https://img.shields.io/badge/Excalidraw-5E81AC?style=for-the-badge&logo=excalidraw&logoColor=white">
 <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white">
-
-
-<h1>🏗️ Arquitetura da Aplicação</h1> 
-<img src="https://github.com/user-attachments/assets/76b349ee-d94c-437e-89a6-74c07e4d9922" width=1000>
 
 <h1>💻 Desenvolvedores</h1>
 
