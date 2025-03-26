@@ -127,6 +127,9 @@ Essa é uma subcoleção dentro da subcoleção Collections. Seu papel é armeze
 <h2>Diagrama de Estrutura Composta</h2>
 <img src="https://github.com/user-attachments/assets/ced1766d-d03a-4621-99e4-8410e2bb0fc8" width=1000>
 
+<h2>Diagrama de Perfil</h2>
+<img src="https://github.com/user-attachments/assets/c37e9160-4c89-4afa-b466-7b80af410b58" width=1000>
+
 <h1>🧰 Tecnologias Utilizadas</h1> 
 
 Front-end e back-end:
