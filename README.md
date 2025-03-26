@@ -133,7 +133,8 @@ Essa é uma subcoleção dentro da subcoleção Collections. Seu papel é armeze
 <h2>Diagrama de Comunicação</h2>
 <img src="https://github.com/user-attachments/assets/1b039f26-80fe-4e16-8a68-13174970caf9" width=1000>
 
-
+<h2>Diagrama de Estados</h2>
+<img src="https://github.com/user-attachments/assets/40fc6652-9893-4e9a-a8b1-75f5f2e845d4" width=1000>
 
 <h1>🧰 Tecnologias Utilizadas</h1> 
 
