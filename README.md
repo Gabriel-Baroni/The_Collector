@@ -106,7 +106,17 @@ Essa é uma subcoleção dentro da subcoleção Collections. Seu papel é armeze
 <h2>Diagrama de Objetos</h2>
 <img src="https://github.com/user-attachments/assets/77a476e2-8286-4316-9a99-4457930f0042" width=1000>
 
+<h2>Diagramas de Sequência</h2>
 
+<p>Tela de Login e Cadastro</p>
+
+<img src="https://github.com/user-attachments/assets/d0f9a5ea-114c-48d8-a86e-3e04cb3b74d4" width=1000>
+
+<p>Tela principal, criação de coleção e criação de item</p>
+<img src="https://github.com/user-attachments/assets/35b832b8-e041-4062-a6cc-eb7d8619f55d" width=1000>
+
+<h2>Diagrama de Caso de uso</h2>
+<img src="https://github.com/user-attachments/assets/3192f328-f083-48b1-9eab-ea335695b35d" width=1000>
 
 <h1>🧰 Tecnologias Utilizadas</h1> 
 
