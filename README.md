@@ -139,6 +139,33 @@ Essa é uma subcoleção dentro da subcoleção Collections. Seu papel é armeze
 <h2>Diagrama de Tempo</h2>
 <img src="https://github.com/user-attachments/assets/41357a85-2458-4d54-a45e-8617bf8dfea8" width=1000>
 
+<h1>Plano de capacidade (baseado em 1.000 usuários/mês).</h1>
+
+<h2>🛢️ Armazenamento (Firestore)</h2>
+
+- Componente	Estimativa/Mês	Observações
+- Coleção users	5 MB/mê. Estimativa: 5 KB por usuário (email, UID, etc.)
+- Coleção collections + items	500 MB. Estimativa:	50 coleções/usuário, 10 KB cada
+- Total	505 MB	Sem mídia (fotos/vídeos)
+
+<h2>🔐 Autenticação (Firebase Auth)</h2>
+
+- 2.100 operações/mês (logins + cadastros).
+  
+<h2>⚙️ Processamento (Back-end FlutterFlow)</h2>
+
+- 30.000 requisições (CRUD básico).
+
+<h2>📸 Armazenamento de Mídia (Firebase Storage)</h2>
+
+- 2 GB/mês (10.000 itens com fotos de 200 KB cada).
+
+<h2>⚠️ Limites do Plano Gratuito</h2>
+
+- Firestore: 50K leituras/dia e 20K escritas/dia.
+- Auth: 10K usuários/mês.
+- Storage: 5GB
+- 
 <h1>🧰 Tecnologias Utilizadas</h1> 
 
 Front-end e back-end:
