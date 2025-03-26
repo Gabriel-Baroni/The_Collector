@@ -116,7 +116,10 @@ Essa é uma subcoleção dentro da subcoleção Collections. Seu papel é armeze
 <img src="https://github.com/user-attachments/assets/35b832b8-e041-4062-a6cc-eb7d8619f55d" width=1000>
 
 <h2>Diagrama de Caso de uso</h2>
-<img src="https://github.com/user-attachments/assets/3192f328-f083-48b1-9eab-ea335695b35d" width=1000>
+<img src="https://github.com/user-attachments/assets/f9f66082-ec21-4763-af0c-121ddb38ef4e" width=1000>
+
+<h2>Diagrama de Pacotes</h2>
+<img src="https://github.com/user-attachments/assets/19d080db-652a-419f-9f5e-3deec4e5fd79" width=1000>
 
 <h1>🧰 Tecnologias Utilizadas</h1> 
 
