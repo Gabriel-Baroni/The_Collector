@@ -89,10 +89,16 @@ Essa é uma subcoleção dentro da subcoleção Collections. Seu papel é armeze
 
 
 <h1>🧍Diagramas UML</h1>
-<h2>Tela de Login e Cadastro</h2>
+
+<h2>Diagramas de Atividade<h2>
+  
+<p>Tela de Login e Cadastro</p>
 <img src="https://github.com/user-attachments/assets/e8a411ac-a3fb-49ce-8ed9-0d72826935b1" width=1000>
-<h2>Tela principal, criação de coleção e criação de item</h2>
+<p>Tela principal, criação de coleção e criação de item</p>
 <img src="https://github.com/user-attachments/assets/6f1a476f-ffc7-40da-ae29-cee477a90920" width=1000>
+
+<h2>Diagrama de Classes<h2>
+<img src="https://github.com/user-attachments/assets/e3bebcd1-113d-4aa0-bff0-005b87bd00af" width=1000>
 
 <h1>🏗️ Arquitetura da Aplicação</h1> 
 <img src="https://github.com/user-attachments/assets/76b349ee-d94c-437e-89a6-74c07e4d9922" width=1000>
