@@ -100,8 +100,13 @@ Essa é uma subcoleção dentro da subcoleção Collections. Seu papel é armeze
 <h2>Diagrama de Classes<h2>
 <img src="https://github.com/user-attachments/assets/e3bebcd1-113d-4aa0-bff0-005b87bd00af" width=1000>
 
-<h1>Diagrama de Componenetes</h1> 
+<h2>Diagrama de Componenetes</h2> 
 <img src="https://github.com/user-attachments/assets/76b349ee-d94c-437e-89a6-74c07e4d9922" width=1000>
+
+<h2>Diagrama de Objetos</h2>
+<img src="https://github.com/user-attachments/assets/77a476e2-8286-4316-9a99-4457930f0042" width=1000>
+
+
 
 <h1>🧰 Tecnologias Utilizadas</h1> 
 
