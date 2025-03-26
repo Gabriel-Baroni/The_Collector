@@ -136,6 +136,9 @@ Essa é uma subcoleção dentro da subcoleção Collections. Seu papel é armeze
 <h2>Diagrama de Estados</h2>
 <img src="https://github.com/user-attachments/assets/40fc6652-9893-4e9a-a8b1-75f5f2e845d4" width=1000>
 
+<h2>Diagrama de Tempo</h2>
+<img src="https://github.com/user-attachments/assets/41357a85-2458-4d54-a45e-8617bf8dfea8" width=1000>
+
 <h1>🧰 Tecnologias Utilizadas</h1> 
 
 Front-end e back-end:
