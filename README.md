@@ -25,7 +25,8 @@ O público-alvo do aplicativo é qualquer tipo de colecionador, desde os colecio
 
 - Registro de usuários: Um sistema de cadastro e login que permita a criação e autenticação dos usuários através do email.
 - CRUD de novas coleções: Criação, deleção, atualização e leitura de coleções personalizadas ao molde do usuário.
-- CRUD de itens: Criação, deleção, atualização e leitura de itens dentro de uma coleção
+- CRUD de itens: Criação, deleção, atualização e leitura de itens dentro de uma coleção.
+- Text-To-Speech: O sistema de possuir um modo onde uma voz sintetizada consiga ler os textos da tela. 
 
 <h1>☑️ Requisitos não funcionais para o site</h1> 
 
@@ -92,22 +93,24 @@ Essa é uma subcoleção dentro da subcoleção Collections. Seu papel é armeze
 
 <h1>🧍Diagramas UML</h1>
 
-<h2>Diagramas de Atividade<h2>
-  
-<p>Tela de Login e Cadastro</p>
-<img src="https://github.com/user-attachments/assets/e8a411ac-a3fb-49ce-8ed9-0d72826935b1" width=1000>
-<p>Tela principal, criação de coleção e criação de item</p>
-<img src="https://github.com/user-attachments/assets/6f1a476f-ffc7-40da-ae29-cee477a90920" width=1000>
+<h2>Diagrama de Componenetes</h2> 
+<img src="https://github.com/user-attachments/assets/76b349ee-d94c-437e-89a6-74c07e4d9922" width=1000>
 
 <h2>Diagrama de Classes<h2>
 <img src="https://github.com/user-attachments/assets/e3bebcd1-113d-4aa0-bff0-005b87bd00af" width=1000>
 
-<h2>Diagrama de Componenetes</h2> 
-<img src="https://github.com/user-attachments/assets/76b349ee-d94c-437e-89a6-74c07e4d9922" width=1000>
+<h2>Diagrama de Caso de uso</h2>
+<img src="https://github.com/user-attachments/assets/f9f66082-ec21-4763-af0c-121ddb38ef4e" width=1000>
+<h2>Os casos de uso podem ser dividios em:</h2>
 
-<h2>Diagrama de Objetos</h2>
-<img src="https://github.com/user-attachments/assets/77a476e2-8286-4316-9a99-4457930f0042" width=1000>
+- `Fazer cadastro`: Quando acessado pela primeira vez, o aplicativo permite ao usuário criar uma conta. Essa criação de conta envolve o preenchimento de um formulário, onde o usuário deve fornecer o email, senha e confirmar a senha. Após isso, o mesmo será redirecionado para a tela de questionário, onde irá fornecer: Nome, idade, motivo de utilizar o aplicativo e uma foto de perfil.
+- `Fazer login`: Quando o usuário já possui uma conta, ele pode acessá-la através de um login. Para isso, é necessário responder um formulário com o email e senha da conta já criada.
+- `Logout`: Quando já logado em uma conta, o usuário pode sair dela facilmente. Ele pode fazer essa ação para entar em outra conta, por exemplo.
+- `Coleções`: O usuário pode fazer o CRUD (Create, Read, Update, Delete) das coleções, ou seja, o usuário é capaz de criar, visualizar, atualizar e deletar coleções. Seja características da coleção em si, ou os componentes daquela coleção. Além disso, o usuário consegue (por meio de uma barra de pesquisa) buscar, pelo nome, alguma coleção já criada por ele antes. 
+- `Itens`:  O usuário pode fazer o CRUD (Create, Read, Update, Delete) dos itens, ou seja, o usuário é capaz de criar, visualizar, atualizar e deletar os itens das coleções. Além disso, o usuário consegue (por meio de uma barra de pesquisa) buscar, pelo nome, algum item de uma coleção específica. 
 
+
+  
 <h2>Diagramas de Sequência</h2>
 
 <p>Tela de Login e Cadastro</p>
@@ -117,8 +120,15 @@ Essa é uma subcoleção dentro da subcoleção Collections. Seu papel é armeze
 <p>Tela principal, criação de coleção e criação de item</p>
 <img src="https://github.com/user-attachments/assets/35b832b8-e041-4062-a6cc-eb7d8619f55d" width=1000>
 
-<h2>Diagrama de Caso de uso</h2>
-<img src="https://github.com/user-attachments/assets/f9f66082-ec21-4763-af0c-121ddb38ef4e" width=1000>
+<h2>Diagramas de Atividade<h2>
+  
+<p>Tela de Login e Cadastro</p>
+<img src="https://github.com/user-attachments/assets/e8a411ac-a3fb-49ce-8ed9-0d72826935b1" width=1000>
+<p>Tela principal, criação de coleção e criação de item</p>
+<img src="https://github.com/user-attachments/assets/6f1a476f-ffc7-40da-ae29-cee477a90920" width=1000>
+
+<h2>Diagrama de Objetos</h2>
+<img src="https://github.com/user-attachments/assets/77a476e2-8286-4316-9a99-4457930f0042" width=1000>
 
 <h2>Diagrama de Pacotes</h2>
 <img src="https://github.com/user-attachments/assets/19d080db-652a-419f-9f5e-3deec4e5fd79" width=1000>
