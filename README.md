@@ -15,6 +15,8 @@ O objetivo do projeto é a construção de um aplicativo funcional, que permita 
 
 <h1>✖️ O que não é o objetivo do projeto</h1>
 
+- Sistema de venda de artigos colecionáveis.
+- Transações monetárias.
 
 <h1>👥 Público-alvo</h2>
 O público-alvo do aplicativo é qualquer tipo de colecionador, desde os colecionadores profissionais até os amadores, os colecionadores de vídeo games até colecionadores de selos.
