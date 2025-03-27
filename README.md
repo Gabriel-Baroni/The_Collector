@@ -139,7 +139,7 @@ Essa é uma subcoleção dentro da subcoleção Collections. Seu papel é armeze
 <h2>Diagrama de Tempo</h2>
 <img src="https://github.com/user-attachments/assets/41357a85-2458-4d54-a45e-8617bf8dfea8" width=1000>
 
-<h1>Plano de capacidade (baseado em 1.000 usuários/mês).</h1>
+<h1> Plano de capacidade (baseado em 1.000 usuários/mês).</h1>
 
 <h2>🛢️ Armazenamento (Firestore)</h2>
 
@@ -165,7 +165,26 @@ Essa é uma subcoleção dentro da subcoleção Collections. Seu papel é armeze
 - Firestore: 50K leituras/dia e 20K escritas/dia.
 - Auth: 10K usuários/mês.
 - Storage: 5GB
-- 
+
+<h1>🛡️ Estratégia de Backup e Recuperação</h1>
+
+<h2>1. Objetivo</h2>
+
+- Garantir a integridade e disponibilidade dos dados do sistema, permitindo a recuperação eficiente em caso de falhas, exclusões acidentais ou erros técnicos.
+
+<h2>2. Dados que serão incluídos nos backups</h2>
+
+- Informações dos usuários
+- Dados das coleções e itens cadastrados
+- Imagens associadas aos itens
+- Configurações essenciais do sistema
+
+<h2>3. Ferramentas utilizadas</h2>
+
+- Banco de dados: Firebase Firestore
+- Armazenamento de imagens: Firebase Storage 
+
+
 <h1>🧰 Tecnologias Utilizadas</h1> 
 
 Front-end e back-end:
