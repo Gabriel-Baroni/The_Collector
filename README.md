@@ -154,6 +154,107 @@ Essa é uma subcoleção dentro da subcoleção Collections. Seu papel é armeze
 <h2>Diagrama de Tempo</h2>
 <img src="https://github.com/user-attachments/assets/41357a85-2458-4d54-a45e-8617bf8dfea8" width=1000>
 
+## Documentação do Usuário - The Collector
+
+### Introdução
+
+The Collector é um aplicativo projetado para colecionadores organizarem e gerenciarem suas coleções de maneira intuitiva. Este guia fornecerá instruções detalhadas sobre como utilizar todas as funcionalidades do aplicativo.
+
+### Objetivos da Documentação
+
+- Auxiliar os usuários a navegar e utilizar o aplicativo com eficiência.
+- Proporcionar uma experiência fluida e satisfatória.
+- Capacitar os usuários a resolver problemas de forma independente.
+
+### Guia de Uso
+
+#### 1. Acessando o Aplicativo
+
+##### Tela de Login
+
+Opções:
+- Entrar com usuário e senha.
+- Continuar com Google ou Apple.
+- Opção de redefinir senha.
+
+##### Criar Conta
+
+- Preencha os campos obrigatórios: nome de usuário, senha e confirmação de senha.
+- Alternativamente, cadastre-se com Google ou Apple.
+
+#### 2. Criando um Perfil
+
+##### Formulário de Cadastro
+
+- Nome completo.
+- Idade (menores de 18 anos são permitidos).
+- Motivo para utilizar The Collector.
+
+#### 3. Criando uma Coleção
+
+##### Passos
+
+- Acessar "Criar Coleção"
+- Preencher os campos:
+  - Nome da coleção (ex: "Cartas Pokémon").
+  - Tipo da coleção (ex: "Relógios").
+  - Data de início da coleção.
+  - Enviar foto representativa.
+
+#### 4. Adicionando Itens à Coleção
+
+##### Passos
+
+- Selecione uma coleção existente.
+- Clique em "Adicionar Novo Item".
+- Informe os detalhes:
+  - Nome do item.
+  - Status (novo, usado, raro, etc.).
+  - Valor estimado (ex: R$ 400,00).
+  - Código do item (se aplicável, ex: 150/200).
+  - Quantidade do item.
+  - Foto do item.
+- Salve as informações.
+
+#### 5. Gerenciando a Coleção
+
+##### Recursos Disponíveis
+
+- Visualizar todas as coleções criadas.
+- Editar informações de uma coleção ou item.
+- Excluir coleções ou itens indesejados.
+
+#### 6. Configurações da Conta
+
+##### Opções Disponíveis
+
+- Alterar nome de usuário.
+- Mudar foto de perfil.
+- Modificar senha.
+- Ativar/desativar o modo de "Texto para Fala".
+
+#### 7. Resolvendo Problemas Comuns
+
+##### Problema: Não consigo fazer login
+
+- Verifique se o nome de usuário e senha estão corretos.
+- Utilize a opção "Esqueci minha senha" para redefinir.
+
+##### Problema: Não consigo adicionar um item
+
+- Certifique-se de preencher todos os campos obrigatórios.
+- Verifique se a foto está no formato suportado.
+
+##### Problema: O aplicativo está lento ou travando
+
+- Tente reiniciar o aplicativo.
+- Certifique-se de que sua conexão com a internet está estável.
+- Atualize o aplicativo para a versão mais recente.
+
+### Conclusão
+
+Com este guia, você tem todas as informações necessárias para aproveitar ao máximo The Collector. Caso precise de mais assistência, entre em contato com o suporte dentro do aplicativo.
+
 <h1> Plano de capacidade (baseado em 1.000 usuários/mês).</h1>
 
 <h2>🛢️ Armazenamento (Firestore)</h2>
