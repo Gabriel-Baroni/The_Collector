@@ -28,6 +28,7 @@ O público-alvo do aplicativo é qualquer tipo de colecionador, desde os colecio
 - CRUD de itens: Criação, deleção, atualização e leitura de itens dentro de uma coleção.
 - Text-To-Speech: O sistema de possuir um modo onde uma voz sintetizada consiga ler os textos da tela. 
 
+
 <h1>☑️ Requisitos não funcionais para o site</h1> 
 
 - Desempenho: O software deve funcionar sem travamentos e com agilidade de resposta.
@@ -53,6 +54,7 @@ O público-alvo do aplicativo é qualquer tipo de colecionador, desde os colecio
 <h1>📱Mockup do APP </h1>
 
 Pré-Mockup da Interface: <img src="https://github.com/user-attachments/assets/41cd5bd9-ef7e-49ea-8b83-1f5841378d66" width=1000> 
+Mockup do App: [The Collector.pdf](https://github.com/user-attachments/files/19507316/The.Collector.pdf)
 
 <h1>📊 Modelagem do Banco de Dados</h1>
 <img src="https://github.com/user-attachments/assets/1d0b66fd-5ff7-4ea5-874c-063865fb1997" width=1000>
